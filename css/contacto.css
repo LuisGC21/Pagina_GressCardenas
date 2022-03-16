@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+.contenedor-principal{
+    margin: 50px;
+    margin-top: 50px;
+}
+.contenedor-two{
+    display: flex;
+    font-size: 17px;
+}
+h2{
+    margin: auto;
+}
+.article-contacto{
+    margin: 30px;
+}
+.mapa{
+    margin: auto;
+    margin-right: 15px;
+    float: left;
+}
+.section-form{
+    border-radius: 10px;
+    display: flex;
+    padding: 15px;
+    margin-left: 20px;
+    font-size: 25px;
+    background-color: wheat;
+}
+form{
+    margin: auto;
+}
+legend{
+    font-size: 30px;
+}
+fieldset{
+    padding: 40px;
+
+}
+input{
+    height: 25px;
+
+}
+#Enviar{
+    border-radius: 10px;
+    background-color: white;
+    padding: 20px;
+    margin-left: 40%;
+    height: auto;
+}
+#Enviar:hover{
+    cursor: pointer;
+    background-color: wheat;
+}
+.terminos-div{
+    border-radius: 10px;
+    background-color: #a37a6a;
+    padding: 15px;
+    margin-top: 15px;
+    float: left;
+    width: 550px;
+}
+

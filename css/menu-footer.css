@@ -1,0 +1,33 @@
+*{
+    font-family: 'Hubballi', cursive;
+}
+body{
+    background-color: #9bd4db;
+}
+.navegacion{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.li-navegacion{
+    font-size: 20px;
+    display: inline;
+    text-align: center;
+}
+a{
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 25px;
+    background-color: #8774dd;
+    margin-left: 10px;
+}
+a:hover{
+    background-color: #7f48e4;
+    color: white;
+}
+.footer-section{
+    font-style: italic;
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 20px;
+}

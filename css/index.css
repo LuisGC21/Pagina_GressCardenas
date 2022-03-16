@@ -1,0 +1,28 @@
+.contenedor-principal{
+    margin: 100px;
+    margin-top: 50px;
+}
+.article-one{
+    border-radius: 10px;
+    background-color: #a7aff3;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+h1{
+    font-size: xx-large;
+}
+.article-two{
+    border-radius: 10px;
+    background-color: #9d8fb4;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.section-img{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.section-img img{
+    border-radius: 100px; 
+    width: 50%;
+}
